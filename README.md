@@ -1,4 +1,4 @@
-# Desafio Países :art:
+# Desafio Países :crossed_flags:
 
 Aplicação desenvolvida durante o segundo desafio do Módulo 01 do Bootcamp Desenvolvimento Fullstack disponibilizado pelo Instituto de Gestão e Tecnologia da Informação - IGTI. Visando desenvolver as habilidades em JavaScript, HTML e CSS e requisições HTTP, a aplicação consiste numa lista de países disponível via requisição fetch que permite ao usuário adicionar de forma dinâmicas países à lista de favoritos, ondes os mesmos são ordenados por ordem alfabética.
 Cada país conta individualmente com o dado de número de população, assim como cada lista contém o valor da soma dos países.
