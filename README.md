@@ -8,7 +8,7 @@ Foram adicionados a estilização e alguns comportamentos.
 <hr>
 
 <p align="center">
-  <img width="900px" src=""/>
+  <img width="900px" src="https://github.com/ChristopherHauschild/desafio-paises-bootcamp-igti/blob/master/DPS.gif?raw=true"/>
 </p>
 
 ## Linguagens e Tecnologias utilizadas: :computer:
